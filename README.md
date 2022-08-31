@@ -18,6 +18,6 @@ Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetro
 
 ##Exemplo
 
-![img1](path/to/file)
+!(modelagem-computacional/img/proje1)
 
 
