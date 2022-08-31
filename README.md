@@ -3,5 +3,5 @@ Trabalhos desenvolvidos na disciplina Modelagem Computacional na Universidade Fe
 
 
 
-#Lista dos Projetos
+# Lista dos Projetos
 * [Simulação de um lançamento oblíquo](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto1_LancamentoObliquo.ipynb)
