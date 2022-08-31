@@ -18,6 +18,7 @@ Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetro
 
 ## Exemplo
 
-![[img1](modelagem-computacional/img/proje1)](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje1.png#gh-light-mode-only)
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje1.jpeg)
+
 
 
