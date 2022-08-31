@@ -7,4 +7,6 @@ Trabalhos desenvolvidos na disciplina Modelagem Computacional na Universidade Fe
 1. [Simulação de um lançamento oblíquo](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto1_LancamentoObliquo.ipynb)
 2. [Simulação do acoplamento de neurônios](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto_2.ipynb)
 3. [Simulação de uma rede trófica](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto_3.ipynb)
-4. 
+4. [Simulação do contágio de uma doença](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto_4_(1).ipynb)
+5. [Simulação do contágio utilizando o modelo SIR](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto_5.ipynb)
+6. [Simulação do contágio utilizandoo modelo SIR aplicado em um grafo](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/Projeto_6%20(1).ipynb)
