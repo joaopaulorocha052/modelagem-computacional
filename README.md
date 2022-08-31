@@ -16,4 +16,8 @@ Trabalhos desenvolvidos na disciplina Modelagem Computacional na Universidade Fe
 ## Descrição
 Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetros como a velocidade e massa do projétil, além da gravidade do planeta
 
+##Exemplo
+
+![img1](path/to/file)
+
 
