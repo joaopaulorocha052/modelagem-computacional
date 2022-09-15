@@ -15,7 +15,7 @@ Trabalhos desenvolvidos na disciplina Modelagem Computacional na Universidade Fe
 # Projeto 1
 
 ## Descrição
-Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetros como a velocidade e massa do projétil, além da gravidade do planeta
+Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetros como a velocidade e massa do projétil, além da gravidade do planeta.
 
 ## Exemplo
 
@@ -26,7 +26,7 @@ Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetro
 # Projeto 2
 
 ## Descrição
-Simulação do acoplamento entre 500 neurônios, que comecam a sincronizar a sua pulsação com o passar do tempo
+Simulação do acoplamento entre 500 neurônios, que comecam a sincronizar a sua pulsação com o passar do tempo. Foi utilizado o Oscilador de Van der Pol, equações que definem o comportamento uma da outra, como um laço de realimentacao entre uma variavel excitatória e uma inibitória. Assim, o comportamento delas é análogo ao funcionamento dos neurônios.
 
 ## Exemplo
 
@@ -34,13 +34,52 @@ Simulação do acoplamento entre 500 neurônios, que comecam a sincronizar a sua
 
 
 
-
 # Projeto 3
 
 ## Descrição
-Simulação do acoplamento entre 500 neurônios, que comecam a sincronizar a sua pulsação com o passar do tempo
+Simulação de uma rede tródica contendo 8 espécies de animais e produtores, utilizando o modelo Lotka-Volterra, um modelo de presa-predador, onde a população de predadores influencia a população das presas.
 
 ## Exemplo
 
 ![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje3.jpeg)
+
+
+
+
+# Projeto 4
+
+## Descrição
+Simulação da propagação de uma em rede, utilizando grafos para simular uma rede de pessoas conectadas, que podem ou não transmitir e contrair a doença para seus vizinhos.
+
+## Exemplo
+
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/imagem_2022-09-15_201057118.png)
+
+
+
+# Projeto 5
+
+## Descrição
+Simulação da propagação de uma doença utilizando utilizando o modelo epidemiológico SIR, que descreve a transmissao de doenças em um grupo de pessoas, levando em conta a população de infectados, suscetíveis e de recuperados
+
+## Exemplo
+
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje5.jpeg) 
+
+
+
+# Projeto 5
+
+## Descrição
+Simulação da propagação de uma doença utilizando utilizando o modelo epidemiológico SIR, mas agora aplicado a uma rede, que foi criada utilizando um grafo. Novamente o modelo SIR descreve a evolução da epidemia, mas agora cada nó do grafo representa uma cidade, com população propria e individuos suscetiveis, infectados e recuperados proprios. Assim, o modelo SIR é aplicado a cada cidade, que estão ligadas entre si, seguindo cidades do estado de São Paulo.
+
+## Exemplo
+
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje6_1.png) Grafo que representa as cidades do estado de São Paulo
+
+
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje6_2.png) Exemplo do grafico da evolução da epidemia na cidade de Jundiaí
+
+
+
 
