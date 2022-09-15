@@ -19,7 +19,7 @@ Simulação de um lancamento oblíquo de um projétil, onde alteramos parâmetro
 
 ## Exemplo
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje1.jpeg)
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje1.jpeg) Exemplo de lançamento
 
 
 
@@ -30,7 +30,7 @@ Simulação do acoplamento entre 500 neurônios, que comecam a sincronizar a sua
 
 ## Exemplo
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje2.jpeg)
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje2.jpeg) Exemplo da pulsação de um neurônio
 
 
 
@@ -41,7 +41,7 @@ Simulação de uma rede tródica contendo 8 espécies de animais e produtores, u
 
 ## Exemplo
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje3.jpeg)
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje3.jpeg) Exemplo de uma das simulações da rede trófica
 
 
 
@@ -53,7 +53,7 @@ Simulação da propagação de uma em rede, utilizando grafos para simular uma r
 
 ## Exemplo
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/imagem_2022-09-15_201057118.png)
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/imagem_2022-09-15_201057118.png) Exemplo do número de infectados diário
 
 
 
@@ -64,7 +64,7 @@ Simulação da propagação de uma doença utilizando utilizando o modelo epidem
 
 ## Exemplo
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje5.jpeg) 
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje5.jpeg) Exemplo de gráfico do modelo SIR
 
 
 
@@ -78,7 +78,7 @@ Simulação da propagação de uma doença utilizando utilizando o modelo epidem
 ![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje6_1.png) Grafo que representa as cidades do estado de São Paulo
 
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje6_2.png) Exemplo do grafico da evolução da epidemia na cidade de Jundiaí
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/proje6_2.jpeg) Exemplo do grafico da evolução da epidemia na cidade de Jundiaí
 
 
 
