@@ -55,7 +55,7 @@ Simulação da propagação de uma em rede, utilizando grafos para simular uma r
 
 ![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/imagem_2022-09-15_201057118.png) Exemplo do número de infectados diário
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/Design%20sem%20nome.gif) Teste do GIF
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/img/ezgif.com-gif-maker%20(1).gif) Contaminação orcorrendo em um grupo de 500 pessoas
 
 
 
