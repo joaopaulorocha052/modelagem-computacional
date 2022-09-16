@@ -1,5 +1,15 @@
 # Modelagem Computacional
-Trabalhos desenvolvidos na disciplina Modelagem Computacional na Universidade Federal de São Paulo
+Trabalhos desenvolvidos na disciplina Modelagem Computacional da Universidade Federal de São Paulo-Campus São José dos Campos
+
+#Descrição dos Projetos
+
+Durante a disciplina, realizamos simulações de diversos eventos da realidade através de modelos matemáticos. A partir dos modelos matématicos que descrevem determinado fenomeno fizemos os calculos a ajustamos os parametros para que pudessemos simular sistemas complexos. Foram realizadas simulações de neurônios, propagação de doenças, sistemas ecológicos e de lancamentos.
+
+## Tecnologias Utilizadas
+
+
+<img width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 
 
 
