@@ -84,7 +84,7 @@ Exemplo de gráfico do modelo SIR
 
 
 
-# Projeto 5
+# Projeto 6
 
 ## Descrição
 Simulação da propagação de uma doença utilizando utilizando o modelo epidemiológico SIR, mas agora aplicado a uma rede, que foi criada utilizando um grafo. Novamente o modelo SIR descreve a evolução da epidemia, mas agora cada nó do grafo representa uma cidade, com população propria e individuos suscetiveis, infectados e recuperados proprios. Assim, o modelo SIR é aplicado a cada cidade, que estão ligadas entre si, seguindo cidades do estado de São Paulo.
