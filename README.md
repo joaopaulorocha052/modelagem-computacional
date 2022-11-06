@@ -1,5 +1,5 @@
 # Modelagem Computacional
-Trabalhos desenvolvidos na disciplina Modelagem Computacional da Universidade Federal de São Paulo-Campus São José dos Campos
+Trabalhos desenvolvidos na disciplina Modelagem Computacional da Universidade Federal de São Paulo-Campus São José dos Campos, junto dos alunos Gabriel Schrader Vilas Boas e Luigi Rufca Catelli Fernandez
 
 # Descrição dos Projetos
 
