@@ -95,7 +95,7 @@ Simulação da propagação de uma doença utilizando utilizando o modelo epidem
 Grafo que representa as cidades do estado de São Paulo
 
 
-![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/gifs/gif-cidades) </br>
+![img](https://github.com/joaopaulorocha052/modelagem-computacional/blob/main/gifs/gif-cidades.gif) </br>
 Exemplo do grafico da evolução da epidemia na cidade de Jundiaí
 
 
